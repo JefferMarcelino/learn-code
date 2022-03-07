@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: center;
     background: #4A4544;
+    padding: 10px;
 }
 
 main {
